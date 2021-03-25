@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="err_taille">Height must be positive</string>
+    <string name="err_empty">Error, you must fill all the fields</string>
+    <string name="result_imc">Your BMI is</string>
+    <string name="imc_famine">"Severely underweight "</string>
+    <string name="imc_maigreur">Underweight</string>
+    <string name="imc_normal">Normal (healthy weight)</string>
+    <string name="imc_surpoids">Overweight</string>
+    <string name="imc_modere">Moderately obese</string>
+    <string name="imc_morbide">Very severely obese</string>
+    <string name="texteInit">You must enter your height and your weight then press the \'Calculate my BMI\' button to get a result.</string>
+    <string name="texteResult">Result :</string>
+    <string name="texteAppreciation">Show details</string>
+    <string name="texteCm">Centimeters</string>
+    <string name="texteMetre">Meters</string>
+    <string name="texteTaille">Please enter your height</string>
+    <string name="textePoids">Please enter your weight</string>
+    <string name="calcul_imc">Calculate my BMI</string>
+    <string name="err_poids">Weight must be positive</string>
+    <string name="imc_severe">Severely obese</string>
+    <string name="err">Error</string>
+</resources>
